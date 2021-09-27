@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/72373873/134971677-4500df0d-48c8-4d67-9ad9-de19f60ab53b.gif"/><br/>
+<img src="https://user-images.githubusercontent.com/72373873/134973084-2f489881-eb2e-4ef7-97e9-afb909dc6525.gif"/><br/>
  
 
   
+
 
 
 
@@ -20,6 +21,5 @@
 <p align="center" >Coming soon but i can Minecraft Skript</p
 <div align="center">
 <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif"/><br/> 
- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72373873/134971677-4500df0d-48c8-4d67-9ad9-de19f60ab53b.gif)
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/72373873/134973084-2f489881-eb2e-4ef7-97e9-afb909dc6525.gif)
 -->
